@@ -3,5 +3,4 @@
 - testing
 - hook up Quiz crud functionality
 - render one question at a time
-- styling
 - create dev scripts
