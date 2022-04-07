@@ -1,4 +1,4 @@
-# TODOS
+# TODO
 - render form, then submit question (currently, wrong order)
 - testing
 - hook up Quiz crud functionality
